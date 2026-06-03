@@ -6,7 +6,7 @@
 - Remove seeds
 - Bake pumpkin/squash
 - Take out the inside of the pumpkin
-- Use 2 cups of pumpkin pulp per pie
+- Use 400 grams of pumpkin pulp per pie
 
 
 ## Ingredients
@@ -14,7 +14,7 @@
 - Pie shell
 - Nutmeg
 - Can of evaporated milk
-- 0.4 cup sugar
+- 100 grams sugar
 - 0.5 tsp salt
 - 2 tsp cinnamon
 - 1 tsp ginger, ground or juice
