@@ -12,6 +12,7 @@
 ## Ingredients
 
 - Pie shell
+- 1/2 cup rasins
 - Nutmeg
 - Can of evaporated milk
 - 0.4 cup sugar
@@ -29,6 +30,7 @@
 - Smash manually until somehow homogeneous
 - Add eggs and blend
 - Add evaporated milk and blend
+- Add rasins and mix
 
 
 ## Baking
